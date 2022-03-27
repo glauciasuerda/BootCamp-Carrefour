@@ -1,1 +1,4 @@
-Criar um repositório no GitHUb 
+Criar um repositório no GitHub 
+
+Através dos comandos aprendidos no curso, executar todos os passos para a criação, 
+atualização e sincronização de um repositório no GitHub.
