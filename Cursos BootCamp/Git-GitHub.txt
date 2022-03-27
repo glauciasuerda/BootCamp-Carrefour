@@ -1,0 +1,19 @@
+
+Programa que rastreia alterações em arquivos
+
+- Controle de versão
+- Armazenamento em nuvem
+- Trabalho em equipe
+- Melhorar seu código
+- Reconhecimento
+
+Comandos:
+
+cd (Mudar de diretório)
+dir (Listar os diretórios)
+mkdir (Criar diretórios)
+del/rmdir (Deletar)
+git init (Iniciar o repositório)
+git add (Mover arquivos)
+git commit -m "" (criar commit)
+git push origin main (Enviar o commit para nuvem)
